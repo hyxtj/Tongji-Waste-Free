@@ -5,6 +5,6 @@
 
   # hyxtj's Website
 
-  Visit **[hyxtj.github.io/Tongji-Waste-Free](https://hyxtj.github.io/Tongji-Waste-Free)** 🚀
+  Visit **[hyxtj.github.io/Tongji-Waste-Free.github.io](https://hyxtj.github.io/Tongji-Waste-Free.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
