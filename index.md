@@ -1,22 +1,22 @@
 ---
 ---
 
-# hyxtj's Website
+# 同济大学城市无废设计
 
-An engaging 1-3 sentence description of your lab.
+面向无废设计的城市空间微更新现状智能分析技术研究。
 
 {% include section.html %}
 
-## Highlights
+## 项目展示
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+我们的研究项目涉及多个方面，包括城市无废设计、城市空间微更新、智能分析技术等。旨在探索如何通过智能分析技术来优化城市无废设计，提高城市空间微更新的效率和质量。
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="查看详情"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
