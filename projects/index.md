@@ -6,22 +6,21 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}无废设计作品展示
+ 
+2024年第二节全国风景园林无废城市设计创新工坊获奖作品展示
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="无废设计作品展示" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## 精选作品
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
+## 更多作品
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}

@@ -1,12 +1,12 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: 邻里绿洲
+  subtitle: 特等奖作品
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/projects/邻里绿洲.png
+  link: https://mp.weixin.qq.com/s?__biz=MzA3ODEzOTQxOA==&mid=2651373289&idx=1&sn=2151d54b8ddcda3da476004ba3961223&chksm=85ef542b05f6cfa886cab118105bbe99c5f6559260a1be34da22bb3394707303849a41e19b21&scene=27
+  description: 以无废设计理念为核心，创作了多项自然改造艺术作品。提升了废弃物的使用率，更深刻体现了无废设计的精髓与魅力。通过巧妙切割、打磨、钻孔及装饰，赋予其独特美感。
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - 邻里绿洲
 
 - title: Cool Package
   subtitle: a subtitle
