@@ -39,7 +39,7 @@
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="查看详情"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project.png"
   link="projects"
-  title="Our Projects"
+  title="无废作品展示"
   flip=true
   style="bare"
   text=text
@@ -59,12 +59,12 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+团队成员由来自同济大学各个专业背景的学生组成，丰富的专业知识和实践经验，为无废设计领域的研究和实践提供有力的支持。
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="团队成员"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="团队成员"
   text=text
 %}
