@@ -4,7 +4,6 @@
   image: images/projects/邻里绿洲.png
   link: https://mp.weixin.qq.com/s?__biz=MzA3ODEzOTQxOA==&mid=2651373289&idx=1&sn=2151d54b8ddcda3da476004ba3961223&chksm=85ef542b05f6cfa886cab118105bbe99c5f6559260a1be34da22bb3394707303849a41e19b21&scene=27
   description: 以无废设计理念为核心，创作了多项自然改造艺术作品。提升了废弃物的使用率，更深刻体现了无废设计的精髓与魅力。通过巧妙切割、打磨、钻孔及装饰，赋予其独特美感。
-  repo: greenelab/lab-website-template
   tags:
     - 邻里绿洲
 
@@ -14,34 +13,29 @@
   image: images/projects/虫虫乐园.jpg
   link: https://mp.weixin.qq.com/s?__biz=MzA3ODEzOTQxOA==&mid=2651373289&idx=1&sn=2151d54b8ddcda3da476004ba3961223&chksm=85ef542b05f6cfa886cab118105bbe99c5f6559260a1be34da22bb3394707303849a41e19b21&scene=27
   description: 通过以昆虫为主题的创意小品，旨在激发公众对自然生态的关注和爱护，进一步弘扬生物多样性的理念。通过精心设计的景观小品，增强居民对社区的认同感，共创美好生活环境。
-  repo: greenelab/lab-website-template
   tags:
     - 虫虫乐园
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 吸管乐园
+  subtitle: 二等奖作品
+  image: images/projects/吸管乐园.jpg
+  link: https://mp.weixin.qq.com/s?__biz=MzA3ODEzOTQxOA==&mid=2651373289&idx=1&sn=2151d54b8ddcda3da476004ba3961223&chksm=85ef542b05f6cfa886cab118105bbe99c5f6559260a1be34da22bb3394707303849a41e19b21&scene=27
+  description: 以回收的吸管作为搭建材料，采取模数化的单元体和节点，搭建过程中没有使用胶水，不产生垃圾，拆除过程中不会产生任何废料，节点全部采用3d打印构建，诚邀大家一其聆听吸管的第二次生命！
   tags:
-    - resource
-    - publication
+    - 吸管乐园
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 五彩馨艺
+  subtitle: 三等奖作品
+  image: images/projects/五彩馨艺.png
+  link: https://mp.weixin.qq.com/s?__biz=MzA3ODEzOTQxOA==&mid=2651373289&idx=1&sn=2151d54b8ddcda3da476004ba3961223&chksm=85ef542b05f6cfa886cab118105bbe99c5f6559260a1be34da22bb3394707303849a41e19b21&scene=27
+  description: 盆涂上颜色作为蘑菇顶，瓶子作为蘑菇底，制作成彩色小蘑菇，点缀花园。塑料瓶倒插在道路两侧，涂上颜色，作为彩色路牙，增添道路趣味性。
   tags:
-    - software
+    - 五彩馨艺
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 在日出之前请尽情地梦
+  subtitle: 三等奖作品
+  image: images/projects/在日出之前请尽情地梦.png
+  link: https://mp.weixin.qq.com/s?__biz=MzA3ODEzOTQxOA==&mid=2651373289&idx=1&sn=2151d54b8ddcda3da476004ba3961223&chksm=85ef542b05f6cfa886cab118105bbe99c5f6559260a1be34da22bb3394707303849a41e19b21&scene=27
+  description: 此沙盘装置作品，寓意于不应忘记曾努力生活之初心，奋力拼搏之决心，无论怎样美好的生活，均来源于此。传承山城人民的毅力与精神文化，在那一刹那，想起这样的旧山城图腾。
   tags:
-    - software
+    - 在日出之前请尽情地梦
