@@ -1,8 +1,8 @@
 ---
-title: Research
+title: 研究进展
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: 项目目前研究进展
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research

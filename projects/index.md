@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: 无废设计作品展示
 nav:
   order: 2
   tooltip: Software, datasets, and more
