@@ -8,15 +8,15 @@
   tags:
     - 邻里绿洲
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: 虫虫乐园
+  subtitle: 一等奖作品
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/projects/虫虫乐园.jpg
+  link: https://mp.weixin.qq.com/s?__biz=MzA3ODEzOTQxOA==&mid=2651373289&idx=1&sn=2151d54b8ddcda3da476004ba3961223&chksm=85ef542b05f6cfa886cab118105bbe99c5f6559260a1be34da22bb3394707303849a41e19b21&scene=27
+  description: 通过以昆虫为主题的创意小品，旨在激发公众对自然生态的关注和爱护，进一步弘扬生物多样性的理念。通过精心设计的景观小品，增强居民对社区的认同感，共创美好生活环境。
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - 虫虫乐园
 
 - title: Cool Tutorial
   subtitle: a subtitle
