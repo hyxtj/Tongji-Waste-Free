@@ -1,11 +1,11 @@
 ---
-title: Contact
+title: 联系方式
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: 从这里联系我们
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}联系我们
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="13605046617@163.com"
+  link="13605046617@163.com"
 %}
 {%
   include button.html

@@ -34,7 +34,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+团队积极积极举办各类无废设计创新实践活动，开展活动以来征集到来自全国各地的优秀作品，并邀请专家进行评审，评选出一批优秀作品。
 
 {%
   include button.html
