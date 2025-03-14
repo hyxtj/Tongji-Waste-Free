@@ -30,7 +30,7 @@
         a.classList.add("tag");
         a.innerHTML = tag;
         a.href = `${link}"`;
-        a.dataset.tooltip = `${tag}"`;
+        a.dataset.tooltip = `"${tag}"`;
         row.append(a);
       }
 
